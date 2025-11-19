@@ -1,0 +1,20 @@
+## Build results
+[Dd]ebug/
+[Rr]elease/
+**/bin/
+**/obj/
+
+## Visual Studio files
+.vs/ # Thư mục gây ra lỗi của bạn
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## NuGet packages
+packages/
+*.nupkg
+
+## Other files
+*.log
+*.bak
